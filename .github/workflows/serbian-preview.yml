@@ -6,7 +6,7 @@ name: Serbian preview build
 on:
   workflow_dispatch:
   push:
-    branches: [serbian-complete-and-latin]
+    branches: [serbian-preview]
 
 permissions:
   contents: read
